@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Skyline Breeze Cap",
+    "price": 24.99,
+    "description": "A lightweight and comfortable baseball cap designed for everyday wear.",
+    "discount": false,
+    "available": true,
+    "image": "product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Coastal Drift Cap",
+    "price": 21.5,
+    "description": "A simple and versatile cap made from breathable materials for casual outings.",
+    "discount": false,
+    "available": true,
+    "image": "product-2"
+  },
+  {
+    "id": 3,
+    "name": "Shadow Ridge Cap",
+    "price": 27.0,
+    "description": "A structured baseball cap offering a classic look with an adjustable fit.",
+    "discount": false,
+    "available": true,
+    "image": "product-3"
+  },
+  {
+    "id": 4,
+    "name": "Amber Trail Cap",
+    "price": 22.9,
+    "description": "A timeless six-panel design crafted for comfort and everyday style.",
+    "discount": false,
+    "available": true,
+    "image": "product-4"
+  },
+  {
+    "id": 5,
+    "name": "Midnight Horizon Cap",
+    "price": 25.75,
+    "description": "A sleek cap that combines lightweight fabric with a curved visor for a modern touch.",
+    "discount": false,
+    "available": true,
+    "image": "product-5"
+  },
+  {
+    "id": 6,
+    "name": "Summit Crest Cap",
+    "price": 23.4,
+    "description": "A durable and adjustable cap suitable for both urban and outdoor adventures.",
+    "discount": false,
+    "available": true,
+    "image": "product-6"
+  },
+  {
+    "id": 7,
+    "name": "Echo Valley Cap",
+    "price": 20.99,
+    "description": "A relaxed-fit baseball cap perfect for casual, everyday wear.",
+    "discount": false,
+    "available": true,
+    "image": "product-7"
+  },
+  {
+    "id": 8,
+    "name": "Granite Edge Cap",
+    "price": 26.3,
+    "description": "A clean and minimalist cap designed for all-day comfort and easy pairing.",
+    "discount": false,
+    "available": true,
+    "image": "product-8"
+  },
+  {
+    "id": 9,
+    "name": "Sunline Trek Cap",
+    "price": 24.2,
+    "description": "A breathable cap that keeps you cool and comfortable wherever you go.",
+    "discount": false,
+    "available": true,
+    "image": "product-9"
+  },
+  {
+    "id": 10,
+    "name": "Crimson Peak Cap",
+    "price": 28.5,
+    "description": "A bold yet understated design offering a premium feel and lasting comfort.",
+    "discount": false,
+    "available": true,
+    "image": "product-10"
+  },
+  {
+    "id": 11,
+    "name": "Silverstream Cap",
+    "price": 22.1,
+    "description": "A simple, lightweight cap with a curved bill and adjustable strap.",
+    "discount": false,
+    "available": true,
+    "image": "product-11"
+  }
+]

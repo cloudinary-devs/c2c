@@ -1,9 +1,6 @@
 ![Cloud to Crowd Curricula](https://res.cloudinary.com/cloudinary-creators-community/image/upload/v1776281598/c2c-gh_gijqhz.png?raw=true)
 
 <div align="center">
-  <br />
-  <a href="https://twitter.com/cloudinary" target="_blank">Twitter</a>
-    <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://cloudinary.com/documentation" target="_blank">Docs</a>
@@ -13,41 +10,24 @@
   <a href="https://cloudinary.com/blog/" target="_blank">Blog</a>
     <span>&nbsp;&nbsp;-&nbsp;&nbsp;</span>
   <a href="https://community.cloudinary.com/" target="_blank">Community</a>
-  <br />
   <hr />
 </div>
 
-# Cloudinary-Technology-ProjectName-Demo
-<!-- Change the name of your Project by following the naming convention:
-Cloudinary-Technology-ProjectName-Demo
+# Cloud to Crowd: Curricula for Developers
 
-E.g
-Cloudinary-React-UploadWidget-Demo
- -->
+## About 
 
-<!-- Project Description  -->
+This repo contains all the starter and finished code for the 'Cloud to Crowd' curricula built for developers at Cloudinary. Here you'll find the various stages of the app you'll build in the Next.js course that continues in the AI and Video modules. You'll also find the code for the Portfolio and Python courses.
 
-## Setup 
+On the `main` branch you'll find each course in its starter form. Fork this code and build on it as you follow the course.
 
-<!-- Setup Description  -->
-
-<!-- Requirements 
-
-E.g
-- Have a Cloudinary account
-- NodeJS v16.0
-- React v18.0
--->
-
-## Run the App
-
-<!-- Reun the App instructions -->
+On the `final` branch you'll find the final iteration of each course.
 
 ## Cloudinary Community
-Engage in collaborative coding, connect with fellow enthusiasts, and gather insights from a vibrant open-source network over on [Twitter](https://twitter.com/cloudinary), [Discord](https://discord.gg/cloudinary), or the [Community Forums](https://community.cloudinary.com/)
+Engage in collaborative coding, connect with fellow enthusiasts, and gather insights from a vibrant open-source network on [Discord](https://discord.com/invite/D8ddQj6KnH) via our Cloudinary Creators Community.
 
 ## Show your support
 
-Give a ⭐️ if this project helped you, and watch this repo to stay up to date.
+Give a ⭐️ if this project helped you, and watch this repo to stay up to date. All our courses are listed on https://training.cloudinary.com/pages/c2c.
 
 
