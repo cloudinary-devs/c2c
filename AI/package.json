@@ -9,12 +9,12 @@
     "init": "node --env-file=.env.local --experimental-strip-types --no-warnings scripts/add-logo.ts",
     "lint": "eslint"
   },
-  "dependencies": {
-    "cloudinary": "^2.7.0",
-    "next": "15.5.4",
-    "next-cloudinary": "^6.16.0",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
+ "dependencies": {
+    "cloudinary": "^2.8.0",
+    "next": "16.0.10",
+    "next-cloudinary": "^6.17.5",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
