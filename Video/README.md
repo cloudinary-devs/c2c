@@ -12,7 +12,7 @@ A modern, full-stack e-commerce application for a baseball cap store built with 
 - **Responsive Design**: Mobile-first UI built with Tailwind CSS
 - **Admin Panel**: Admin home and Upload Widget flow
 - **Image Transformations**: Cropping, watermarking, and discount badges
-- **Colour Picker**: Client-side colour selection on product imagery
+- **Color Picker**: Client-side color selection on product imagery
 - **Image Modal**: Full-size / widescreen product view
 - **Server-Side Rendering**: Fast, SEO-friendly pages with the Next.js App Router
 
@@ -107,7 +107,7 @@ Video/
 │   ├── ProductCard.tsx
 │   ├── ProductImage.tsx
 │   ├── ImageModal.tsx
-│   ├── ColourSelector.tsx
+│   ├── ColorSelector.tsx
 │   └── VideoPlayer.tsx          # Cloudinary Video Player (course exercises)
 ├── lib/
 │   └── cloudinary.ts            # Server-side Cloudinary config
@@ -150,7 +150,7 @@ This directory does not ship a platform-specific deployment file. Build and run 
 
 - `app/page.tsx` - Home page and product grid
 - `app/products/[id]/page.tsx` - Product detail shell
-- `app/products/[id]/ProductPageClient.tsx` - Client UI: image, modal, colour selector, video entry points
+- `app/products/[id]/ProductPageClient.tsx` - Client UI: image, modal, color selector, video entry points
 - `components/ProductImage.tsx` - Cloudinary-powered product image
 - `components/VideoPlayer.tsx` - Video player component for the module
 - `lib/cloudinary.ts` - Cloudinary SDK configuration
