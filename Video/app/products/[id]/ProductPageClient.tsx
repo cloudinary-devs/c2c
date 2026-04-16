@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import dynamic from 'next/dynamic';
 import ProductImage from '@/components/ProductImage';
-import ColourSelector from '@/components/ColourSelector';
+import ColorSelector from '@/components/ColorSelector';
 import ImageModal from '@/components/ImageModal';
 
 const VideoPlayer = dynamic(() => import('@/components/VideoPlayer'), { ssr: false });
@@ -17,7 +17,7 @@ export default function ProductPageClient({
   discount: boolean;
   productId: number;
 }) {
-  const [selectedColour, setSelectedColour] = useState<string | null>(null);
+  const [selectedColor, setSelectedColor] = useState<string | null>(null);
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [isVideoModalOpen, setIsVideoModalOpen] = useState(false);
 
@@ -29,7 +29,7 @@ export default function ProductPageClient({
           width={800}
           height={800}
           discount={discount}
-          colour={selectedColour ?? undefined}
+          color={selectedColor ?? undefined}
         />
         <button
           onClick={() => setIsModalOpen(true)}
@@ -50,9 +50,9 @@ export default function ProductPageClient({
         </button>
       </div>
 
-      <ColourSelector
-        selectedColour={selectedColour}
-        onColourChangeAction={setSelectedColour}
+      <ColorSelector
+        selectedColor={selectedColor}
+        onColorChangeAction={setSelectedColor}
       />
 
       {productId === 2 && (
@@ -71,7 +71,7 @@ export default function ProductPageClient({
             width={3413}
             height={1920}
             discount={discount}
-            colour={selectedColour ?? undefined}
+            color={selectedColor ?? undefined}
             widescreen={true}
           />
         </div>
