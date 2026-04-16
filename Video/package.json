@@ -1,5 +1,5 @@
 {
-  "name": "course-1-media-literacy-for-devs",
+  "name": "course-3-video",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,14 +10,12 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "cloudinary": "^2.7.0",
-    "cloudinary-video-player": "^3.7.2",
-    "install": "^0.13.0",
-    "next": "15.5.4",
-    "next-cloudinary": "^6.16.0",
-    "npm": "^11.10.1",
-    "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "cloudinary": "^2.9.0",
+    "cloudinary-video-player": "^3.13.1",
+    "next": "^16.2.4",
+    "next-cloudinary": "^6.17.5",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
