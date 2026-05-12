@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import ProductImage from '@/components/ProductImage';
-// import ColorSelector from '@/components/ColorSelector';
+import ColorSelector from '@/components/ColorSelector';
 import ImageModal from '@/components/ImageModal';
 
 export default function ProductPageClient({
@@ -44,7 +44,7 @@ export default function ProductPageClient({
         </button>
       </div>
 
-      {/* <ColorSelector selected={selected} onChangeAction={setSelected} /> */}
+      {/ <ColorSelector selected={selected} onChangeAction={setSelected} /> */}
 
       <ImageModal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)}>
         <div className="w-full">
